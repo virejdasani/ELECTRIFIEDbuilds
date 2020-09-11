@@ -1,0 +1,11 @@
+Name: ELECTRIFIED
+
+
+Short description:
+A fun game you can play offline. The goal is to not get ELECTRIFIED!
+
+
+Long description:
+A fun game you can play offline. The goal is to not get ELECTRIFIED!
+The entirety of this game was made in under 12 hours as part of a challenge for a youtube video!
+Enjoy the game!
